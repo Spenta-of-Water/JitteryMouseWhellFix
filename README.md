@@ -1,5 +1,5 @@
 # JitteryMouseWheelFix
-This autokey script fixes jittery mouse wheel. I recommend cleaning your wheel first. If cleaning doesn't fix it, then you can use this.
+This autohotkey script fixes jittery mouse wheel. I recommend cleaning your wheel first. If cleaning doesn't fix it, then you can use this.
 
 This locks mouse wheel to do only wheel-up or wheel-down action for 0.2 seconds after it has been last used, this means it cannot jitter even if you want it to. 
 
